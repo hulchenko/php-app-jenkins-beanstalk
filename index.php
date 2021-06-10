@@ -44,7 +44,7 @@ else
             <li><a href="http://aws.amazon.com/php">PHP developer center</a></li>
             <li><a href="https://github.com/aws/aws-sdk-php">AWS SDK for PHP on GitHub</a></li>
         </ul>
-		<h2 width='50%'>A Pelican Bird</h2>
+		<h2 width='150px'>A Pelican Bird</h2>
 		<img src="image.jpg">
     </section>
 
